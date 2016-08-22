@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "docker_tls_manager/cli"
+
+DockerTlsManager::CLI.start
